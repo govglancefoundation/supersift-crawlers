@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Berkeley Center for Quantum Information and Computation",
+        "university": "University of California, Berkeley",
+        "location": "USA",
+        "website": "https://bqic.berkeley.edu",
+        "robots_url": "https://bqic.berkeley.edu/robots.txt",
+        "description": "The official website of the Berkeley Center for Quantum Information and Computation, focusing on quantum information science and quantum computation research.",
+        "credibility": "Highly credible, as it is part of UC Berkeley, a leading institution in quantum information science research."
+    },
+    {
+        "name": "Joint Quantum Institute",
+        "university": "University of Maryland",
+        "location": "USA",
+        "website": "https://jqi.umd.edu",
+        "robots_url": "https://jqi.umd.edu/robots.txt",
+        "description": "The official website of the Joint Quantum Institute, dedicated to research in quantum science and technology.",
+        "credibility": "Highly credible, as it is a collaborative institute between the University of Maryland and the National Institute of Standards and Technology (NIST)."
+    },
+    {
+        "name": "Division of Quantum Physics and Quantum Information",
+        "university": "University of Science and Technology of China",
+        "location": "China",
+        "website": "https://quantum.ustc.edu.cn",
+        "robots_url": "https://quantum.ustc.edu.cn/robots.txt",
+        "description": "The official website of the Division of Quantum Physics and Quantum Information at the University of Science and Technology of China, focusing on quantum research and education.",
+        "credibility": "Highly credible, as it is part of a leading institution in quantum research in China."
+    },
+    {
+        "name": "Chicago Quantum Exchange",
+        "university": "University of Chicago",
+        "location": "USA",
+        "website": "https://quantum.uchicago.edu",
+        "robots_url": "https://quantum.uchicago.edu/robots.txt",
+        "description": "The official website of the Chicago Quantum Exchange, a hub for quantum science and technology research and collaboration.",
+        "credibility": "Highly credible, as it is part of the University of Chicago, known for its strong quantum science programs."
+    },
+    {
+        "name": "Quantum Applications and Research Laboratory",
+        "university": "LMU Munich",
+        "location": "Germany",
+        "website": "https://www.mobile.ifi.lmu.de",
+        "robots_url": "https://www.mobile.ifi.lmu.de/robots.txt",
+        "description": "The official website of the Quantum Applications and Research Laboratory at LMU Munich, focusing on quantum computing and applications research.",
+        "credibility": "Highly credible, as LMU Munich is a leading institution in quantum research in Germany."
+    }
+]

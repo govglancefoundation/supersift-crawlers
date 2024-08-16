@@ -1,0 +1,79 @@
+[
+    {
+        "name": "The Louvre",
+        "description": "The official website of the Louvre Museum, offering information on its collections, exhibitions, and visitor services.",
+        "location": "Paris, France",
+        "credibility": "Highly credible, as it is the official site of one of the world's most renowned and authoritative museums.",
+        "topic": "Art Museums",
+        "website": "https://www.louvre.fr/en",
+        "robots_url": "https://www.louvre.fr/robots.txt",
+        "sitemap_url": "https://louvre.fr/sitemap.xml",
+        "indexed": true
+    },
+    {
+        "name": "Rijksmuseum",
+        "description": "The official website of the Rijksmuseum in Amsterdam, providing details on its collections, exhibitions, and visitor information.",
+        "credibility": "Highly credible, being the official site of the internationally respected Dutch national museum dedicated to arts and history.",
+        "location": "Amsterdam, Netherlands",
+        "website": "https://www.rijksmuseum.nl/en",
+        "robots_url": "https://www.rijksmuseum.nl/robots.txt",
+        "topic": "Art Museums",
+        "sitemap_url": null,
+        "indexed": false
+    },
+    {
+        "name": "The Metropolitan Museum of Art",
+        "location": "New York City, USA",
+        "description": "The official website of The Metropolitan Museum of Art, providing information on its collections, exhibitions, and visitor services.",
+        "credibility": "Highly credible, as it is the official site of one of the largest and most comprehensive art museums in the world.",
+        "topic": "Art Museums",
+        "website": "https://www.metmuseum.org/",
+        "robots_url": "https://www.metmuseum.org/robots.txt",
+        "sitemap_url": "http://www.metmuseum.org/sitemaps/sitemap_index",
+        "indexed": true
+    },
+    {
+        "name": "Museo del Prado",
+        "location": "Madrid, Spain",
+        "description": "The official website of the Museo del Prado in Madrid, offering information on its collections, exhibitions, and visitor services.",
+        "credibility": "Highly credible, as it is the official site of Spain's premier art museum, renowned for its extensive collection of European art.",
+        "topic": "Art Museums",
+        "website": "https://www.museodelprado.es/en",
+        "robots_url": "https://www.museodelprado.es/robots.txt",
+        "sitemap_url": "https://www.museodelprado.es/sitemaps/sitemapindex.xml",
+        "indexed": false
+    },
+    {
+        "name": "Uffizi Gallery",
+        "location": "Florence, Italy",
+        "description": "The official website of the Uffizi Gallery in Florence, providing details on its collections, exhibitions, and visitor information.",
+        "credibility": "Highly credible, as it is the official site of one of Italy's most famous art museums, known for its significant collection of Renaissance art.",
+        "topic": "Art Museums",
+        "website": "https://www.uffizi.it/en",
+        "robots_url": "https://www.uffizi.it/robots.txt",
+        "sitemap_url": "https://www.uffizi.it/sitemap.xml",
+        "indexed": true
+    },
+    {
+        "name": "National Gallery of Victoria",
+        "location": "Melbourne, Australia",
+        "description": "The official website of the National Gallery of Victoria, offering information on its collections, exhibitions, and visitor services.",
+        "credibility": "Highly credible, as it is the official site of Australia's oldest and largest art museum, known for its diverse and extensive collection.",
+        "topic": "Art Museums",
+        "website": "https://www.ngv.vic.gov.au/",
+        "robots_url": "https://www.ngv.vic.gov.au/robots.txt",
+        "sitemap_url": "https://www.ngv.vic.gov.au/sitemap.xml",
+        "indexed": true
+    },
+    {
+        "name": "Zeitz Museum of Contemporary Art Africa",
+        "location": "Cape Town, South Africa",
+        "description": "The official website of Zeitz MOCAA, featuring information on its contemporary African art collections, exhibitions, and visitor details.",
+        "credibility": "Highly credible, as it is the official site of Africa's leading museum dedicated to contemporary art from the continent.",
+        "topic": "Art Museums",
+        "website": "https://zeitzmocaa.museum/",
+        "robots_url": "https://zeitzmocaa.museum/robots.txt",
+        "sitemap_url": "https://zeitzmocaa.museum/sitemap_index.xml",
+        "indexed": true
+    }
+]

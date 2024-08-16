@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Johns Hopkins University Neuroscience",
+        "university": "Johns Hopkins University",
+        "location": "USA",
+        "website": "https://www.jhu.edu",
+        "robots_url": "https://www.jhu.edu/robots.txt",
+        "description": "The official website of Johns Hopkins University, featuring information on its neuroscience research and programs.",
+        "credibility": "Highly credible, as Johns Hopkins University is a leading research institution known for its contributions to neuroscience."
+    },
+    {
+        "name": "UCL Institute of Neurology",
+        "university": "University College London",
+        "location": "UK",
+        "website": "https://www.ucl.ac.uk",
+        "robots_url": "https://www.ucl.ac.uk/robots.txt",
+        "description": "The official website of UCL Institute of Neurology, providing details on its research, faculty, and programs in neurology.",
+        "credibility": "Highly credible, as it is part of University College London, a major research university with a strong focus on neurological studies."
+    },
+    {
+        "name": "MIT Department of Brain and Cognitive Sciences",
+        "university": "Massachusetts Institute of Technology",
+        "location": "USA",
+        "website": "https://www.mit.edu",
+        "robots_url": "https://www.mit.edu/robots.txt",
+        "description": "The official website of MIT's Department of Brain and Cognitive Sciences, showcasing its research, programs, and academic resources.",
+        "credibility": "Highly credible, as MIT is renowned for its advanced research in brain and cognitive sciences."
+    },
+    {
+        "name": "University of California, San Diego Neurosciences Graduate Program",
+        "university": "University of California, San Diego",
+        "location": "USA",
+        "website": "https://neurosciences.ucsd.edu",
+        "robots_url": "https://neurosciences.ucsd.edu/robots.txt",
+        "description": "The official website of the Neurosciences Graduate Program at UC San Diego, providing information on its research and academic offerings.",
+        "credibility": "Highly credible, as UC San Diego is a leading research university with a strong emphasis on neuroscience."
+    },
+    {
+        "name": "Harvard University Department of Neurobiology",
+        "university": "Harvard University",
+        "location": "USA",
+        "website": "https://neuro.hms.harvard.edu",
+        "robots_url": "https://neuro.hms.harvard.edu/robots.txt",
+        "description": "The official website of Harvard University's Department of Neurobiology, detailing its research, faculty, and programs.",
+        "credibility": "Highly credible, as Harvard University is a prestigious institution with a leading department in neurobiology research."
+    }
+]

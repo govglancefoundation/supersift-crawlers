@@ -1,0 +1,51 @@
+[
+        {
+            "name": "New Scientist",
+            "description": "Covers developments in science, technology, health, and the environment with expert journalism.",
+            "website": "https://www.newscientist.com",
+            "sitemap": "https://www.newscientist.com/sitemap.xml",
+            "credibility": "Highly regarded for in-depth scientific articles and accurate reporting.",
+            "robots_url": "https://www.newscientist.com/robots.txt",
+            "topic": "Science Magazines"
+        },
+        {
+            "name": "Scientific American",
+            "description": "Provides comprehensive coverage of scientific advancements and their implications for society.",
+            "website": "https://www.scientificamerican.com",
+            "credibility": "One of the oldest and most respected science magazines in the world.",
+            "robots_url": "https://www.scientificamerican.com/robots.txt",
+            "topic": "Science Magazines"
+        },
+        {
+            "name": "National Geographic",
+            "description": "Known for its stunning photography and detailed articles on science, history, and culture.",
+            "website": "https://www.nationalgeographic.com",
+            "credibility": "Widely respected for its factual reporting and visual storytelling.",
+            "robots_url": "https://www.nationalgeographic.com/robots.txt",
+            "topic": "Science Magazines"
+        },
+        {
+            "name": "Popular Science",
+            "description": "Makes complex scientific topics accessible to the general public, covering a broad range of subjects.",
+            "website": "https://www.popsci.com",
+            "credibility": "Known for its engaging and educational content.",
+            "robots_url": "https://www.popsci.com/robots.txt",
+            "topic": "Science Magazines"
+        },
+        {
+            "name": "Discover",
+            "description": "Focuses on scientific discoveries and innovations across various disciplines.",
+            "website": "https://www.discovermagazine.com",
+            "credibility": "Renowned for making science accessible and exciting to the general public.",
+            "robots_url": "https://www.discovermagazine.com/robots.txt",
+            "topic": "Science Magazines"
+        },
+        {
+            "name": "Smithsonian Magazine",
+            "description": "Covers a wide range of topics including science, history, art, and culture.",
+            "website": "https://www.smithsonianmag.com",
+            "credibility": "Highly credible and part of the Smithsonian Institution.",
+            "robots_url": "https://www.smithsonianmag.com/robots.txt",
+            "topic": "Science Magazines"
+        }
+    ]

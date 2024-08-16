@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Science",
+        "description": "The peer-reviewed journal of the American Association for the Advancement of Science (AAAS), covering all scientific disciplines.",
+        "website": "https://www.science.org",
+        "credibility": "High credibility with rigorous peer review and minimal editorial bias.",
+        "robots_url": "https://www.science.org/robots.txt"
+    },
+    {
+        "name": "Nature",
+        "description": "Publishes news and articles on a wide range of scientific topics, including groundbreaking research and analysis.",
+        "website": "https://www.nature.com",
+        "credibility": "One of the world's leading multidisciplinary science journals.",
+        "robots_url": "https://www.nature.com/robots.txt"
+    },
+    {
+        "name": "The Lancet",
+        "description": "A leading medical journal publishing original research, reviews, and editorials.",
+        "website": "https://www.thelancet.com",
+        "credibility": "Renowned for its high-impact medical research and comprehensive peer review process.",
+        "robots_url": "https://www.thelancet.com/robots.txt"
+    },
+    {
+        "name": "Cell",
+        "description": "Focuses on publishing research articles in the field of life sciences, including molecular and cell biology.",
+        "website": "https://www.cell.com",
+        "credibility": "Widely respected for its groundbreaking research in biology and medicine.",
+        "robots_url": "https://www.cell.com/robots.txt"
+    },
+    {
+        "name": "Nature Communications",
+        "description": "An open-access journal covering all areas of the natural sciences.",
+        "website": "https://www.nature.com/ncomms/",
+        "credibility": "Known for high-quality research articles and open access policy.",
+        "robots_url": "https://www.nature.com/robots.txt"
+    },
+    {
+        "name": "Science Advances",
+        "description": "An open-access journal publishing innovative research across all scientific disciplines.",
+        "website": "https://www.science.org/journal/sciadv",
+        "credibility": "High standards of peer review and editorial oversight, part of the AAAS journal family.",
+        "robots_url": "https://www.science.org/robots.txt"
+    },
+    {
+        "name": "PLOS ONE",
+        "description": "An inclusive journal community working to advance science for the benefit of society, through the rapid dissemination of research across all areas of science and medicine.",
+        "website": "https://journals.plos.org/plosone/",
+        "credibility": "Known for its inclusive approach and open access policy.",
+        "robots_url": "https://journals.plos.org/robots.txt"
+    },
+    {
+        "name": "Proceedings of the National Academy of Sciences (PNAS)",
+        "description": "One of the world's most-cited and comprehensive multidisciplinary scientific journals, publishing high-quality research in all scientific disciplines.",
+        "website": "https://www.pnas.org",
+        "credibility": "Highly respected for its rigorous peer review and significant contributions to scientific knowledge.",
+        "robots_url": "https://www.pnas.org/robots.txt"
+    }
+]

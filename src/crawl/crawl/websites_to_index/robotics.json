@@ -1,0 +1,47 @@
+[
+    {
+        "name": "University of Tokyo Robotics Lab",
+        "university": "University of Tokyo",
+        "location": "Japan",
+        "website": "https://www.u-tokyo.ac.jp/en/",
+        "robots_url": "https://www.u-tokyo.ac.jp/robots.txt",
+        "description": "The official website of the University of Tokyo, featuring its Robotics Lab and research in robotics and automation.",
+        "credibility": "Highly credible, as the University of Tokyo is a prestigious institution known for its cutting-edge research in robotics."
+    },
+    {
+        "name": "MIT Robotics and Artificial Intelligence Lab",
+        "university": "Massachusetts Institute of Technology",
+        "location": "USA",
+        "website": "https://www.mit.edu",
+        "robots_url": "https://www.mit.edu/robots.txt",
+        "description": "The official website of MIT, providing information on its Robotics and Artificial Intelligence Lab and related research.",
+        "credibility": "Highly credible, as MIT is a leading institution in robotics and artificial intelligence research."
+    },
+    {
+        "name": "Waterloo Robotics Lab",
+        "university": "University of Waterloo",
+        "location": "Canada",
+        "website": "https://uwaterloo.ca",
+        "robots_url": "https://uwaterloo.ca/robots.txt",
+        "description": "The official website of the University of Waterloo, featuring its Robotics Lab and innovations in robotics technology.",
+        "credibility": "Highly credible, as the University of Waterloo is known for its strong engineering and robotics programs."
+    },
+    {
+        "name": "ETH Zurich Robotics Institute",
+        "university": "ETH Zurich",
+        "location": "Switzerland",
+        "website": "https://ethz.ch/en.html",
+        "robots_url": "https://ethz.ch/robots.txt",
+        "description": "The official website of ETH Zurich, highlighting its Robotics Institute and research in robotics and automation.",
+        "credibility": "Highly credible, as ETH Zurich is a leading institution in robotics and engineering research."
+    },
+    {
+        "name": "Stanford Robotics Lab",
+        "university": "Stanford University",
+        "location": "USA",
+        "website": "https://www.stanford.edu",
+        "robots_url": "https://www.stanford.edu/robots.txt",
+        "description": "The official website of Stanford University, featuring its Robotics Lab and research in robotics and artificial intelligence.",
+        "credibility": "Highly credible, as Stanford University is a top institution with a prominent robotics research lab."
+    }
+]

@@ -1,0 +1,484 @@
+{
+    "science_magazines": [
+      {
+        "name": "New Scientist",
+        "description": "Covers developments in science, technology, health, and the environment with expert journalism.",
+        "website": "https://www.newscientist.com",
+        "sitemap": "https://www.newscientist.com/sitemap.xml",
+        "credibility": "Highly regarded for in-depth scientific articles and accurate reporting."
+      },
+      {
+        "name": "Scientific American",
+        "description": "Provides comprehensive coverage of scientific advancements and their implications for society.",
+        "website": "https://www.scientificamerican.com",
+        "credibility": "One of the oldest and most respected science magazines in the world."
+      },
+      {
+        "name": "National Geographic",
+        "description": "Known for its stunning photography and detailed articles on science, history, and culture.",
+        "website": "https://www.nationalgeographic.com",
+        "credibility": "Widely respected for its factual reporting and visual storytelling."
+      },
+      {
+        "name": "Popular Science",
+        "description": "Makes complex scientific topics accessible to the general public, covering a broad range of subjects.",
+        "website": "https://www.popsci.com",
+        "credibility": "Known for its engaging and educational content."
+      },
+      {
+        "name": "Discover",
+        "description": "Focuses on scientific discoveries and innovations across various disciplines.",
+        "website": "https://www.discovermagazine.com",
+        "credibility": "Renowned for making science accessible and exciting to the general public."
+      },
+      {
+        "name": "Smithsonian Magazine",
+        "description": "Covers a wide range of topics including science, history, art, and culture.",
+        "website": "https://www.smithsonianmag.com",
+        "credibility": "Highly credible and part of the Smithsonian Institution."
+      }
+    ],
+    "scientific_journals": [
+      {
+        "name": "Science",
+        "description": "The peer-reviewed journal of the American Association for the Advancement of Science (AAAS), covering all scientific disciplines.",
+        "website": "https://www.science.org",
+        "credibility": "High credibility with rigorous peer review and minimal editorial bias."
+      },
+      {
+        "name": "Nature",
+        "description": "Publishes news and articles on a wide range of scientific topics, including groundbreaking research and analysis.",
+        "website": "https://www.nature.com",
+        "credibility": "One of the world's leading multidisciplinary science journals."
+      },
+      {
+        "name": "The Lancet",
+        "description": "A leading medical journal publishing original research, reviews, and editorials.",
+        "website": "https://www.thelancet.com",
+        "credibility": "Renowned for its high-impact medical research and comprehensive peer review process."
+      },
+      {
+        "name": "Cell",
+        "description": "Focuses on publishing research articles in the field of life sciences, including molecular and cell biology.",
+        "website": "https://www.cell.com",
+        "credibility": "Widely respected for its groundbreaking research in biology and medicine."
+      },
+      {
+        "name": "Nature Communications",
+        "description": "An open-access journal covering all areas of the natural sciences.",
+        "website": "https://www.nature.com/ncomms/",
+        "credibility": "Known for high-quality research articles and open access policy."
+      },
+      {
+        "name": "Science Advances",
+        "description": "An open-access journal publishing innovative research across all scientific disciplines.",
+        "website": "https://www.science.org/journal/sciadv",
+        "credibility": "High standards of peer review and editorial oversight, part of the AAAS journal family."
+      },
+      {
+        "name": "PLOS ONE",
+        "description": "An inclusive journal community working to advance science for the benefit of society, through the rapid dissemination of research across all areas of science and medicine.",
+        "website": "https://journals.plos.org/plosone/",
+        "credibility": "Known for its inclusive approach and open access policy."
+      },
+      {
+        "name": "Proceedings of the National Academy of Sciences (PNAS)",
+        "description": "One of the world's most-cited and comprehensive multidisciplinary scientific journals, publishing high-quality research in all scientific disciplines.",
+        "website": "https://www.pnas.org",
+        "credibility": "Highly respected for its rigorous peer review and significant contributions to scientific knowledge."
+      }
+    ],
+    "quantum_computing": [
+        {
+          "name": "Berkeley Center for Quantum Information and Computation",
+          "university": "University of California, Berkeley",
+          "location": "USA",
+          "website": "https://bqic.berkeley.edu"
+        },
+        {
+          "name": "Joint Quantum Institute",
+          "university": "University of Maryland",
+          "location": "USA",
+          "website": "https://jqi.umd.edu"
+        },
+        {
+          "name": "Division of Quantum Physics and Quantum Information",
+          "university": "University of Science and Technology of China",
+          "location": "China",
+          "website": "https://quantum.ustc.edu.cn"
+        },
+        {
+          "name": "Chicago Quantum Exchange",
+          "university": "University of Chicago",
+          "location": "USA",
+          "website": "https://quantum.uchicago.edu"
+        },
+        {
+          "name": "Quantum Applications and Research Laboratory",
+          "university": "LMU Munich",
+          "location": "Germany",
+          "website": "https://www.mobile.ifi.lmu.de"
+        }
+      ],
+      "neuroscience": [
+        {
+          "name": "Johns Hopkins University Neuroscience",
+          "university": "Johns Hopkins University",
+          "location": "USA",
+          "website": "https://www.jhu.edu"
+        },
+        {
+          "name": "UCL Institute of Neurology",
+          "university": "University College London",
+          "location": "UK",
+          "website": "https://www.ucl.ac.uk"
+        },
+        {
+          "name": "MIT Department of Brain and Cognitive Sciences",
+          "university": "Massachusetts Institute of Technology",
+          "location": "USA",
+          "website": "https://www.mit.edu"
+        },
+        {
+          "name": "University of California, San Diego Neurosciences Graduate Program",
+          "university": "University of California, San Diego",
+          "location": "USA",
+          "website": "https://neurosciences.ucsd.edu"
+        },
+        {
+          "name": "Harvard University Department of Neurobiology",
+          "university": "Harvard University",
+          "location": "USA",
+          "website": "https://neuro.hms.harvard.edu"
+        }
+      ],
+      "robotics": [
+        {
+          "name": "University of Tokyo Robotics Lab",
+          "university": "University of Tokyo",
+          "location": "Japan",
+          "website": "https://www.u-tokyo.ac.jp/en/"
+        },
+        {
+          "name": "MIT Robotics and Artificial Intelligence Lab",
+          "university": "Massachusetts Institute of Technology",
+          "location": "USA",
+          "website": "https://www.mit.edu"
+        },
+        {
+          "name": "Waterloo Robotics Lab",
+          "university": "University of Waterloo",
+          "location": "Canada",
+          "website": "https://uwaterloo.ca"
+        },
+        {
+          "name": "ETH Zurich Robotics Institute",
+          "university": "ETH Zurich",
+          "location": "Switzerland",
+          "website": "https://ethz.ch/en.html"
+        },
+        {
+          "name": "Stanford Robotics Lab",
+          "university": "Stanford University",
+          "location": "USA",
+          "website": "https://www.stanford.edu"
+        }
+      ],
+      "biological_sciences": [
+        {
+          "name": "Harvard Medical School Department of Biological Chemistry and Molecular Pharmacology",
+          "university": "Harvard University",
+          "location": "USA",
+          "website": "https://bcmp.hms.harvard.edu"
+        },
+        {
+          "name": "Stanford University Department of Biology",
+          "university": "Stanford University",
+          "location": "USA",
+          "website": "https://biology.stanford.edu"
+        },
+        {
+          "name": "Peking University School of Life Sciences",
+          "university": "Peking University",
+          "location": "China",
+          "website": "https://www.cls.edu.cn/english/"
+        },
+        {
+          "name": "University of Cambridge Department of Biochemistry",
+          "university": "University of Cambridge",
+          "location": "UK",
+          "website": "https://www.bioc.cam.ac.uk"
+        },
+        {
+          "name": "Yale University Department of Molecular, Cellular and Developmental Biology",
+          "university": "Yale University",
+          "location": "USA",
+          "website": "https://mcdb.yale.edu"
+        }
+      ],
+      "general_research_institutes": [
+        {
+          "name": "Max Planck Society",
+          "location": "Germany",
+          "website": "https://www.mpg.de/en"
+        },
+        {
+          "name": "California Institute of Technology",
+          "university": "Caltech",
+          "location": "USA",
+          "website": "https://www.caltech.edu"
+        },
+        {
+          "name": "University of Cambridge Research Institutes",
+          "university": "University of Cambridge",
+          "location": "UK",
+          "website": "https://www.cam.ac.uk/research"
+        },
+        {
+          "name": "University of Oxford Research Services",
+          "university": "University of Oxford",
+          "location": "UK",
+          "website": "https://www.ox.ac.uk/research"
+        },
+        {
+          "name": "National University of Singapore Research Institutes",
+          "university": "National University of Singapore",
+          "location": "Singapore",
+          "website": "https://www.nus.edu.sg/research"
+        }
+      ],
+      "history_museums": [
+        {
+          "name": "The British Museum",
+          "location": "London, UK",
+          "website": "https://www.britishmuseum.org/"
+        },
+        {
+          "name": "Acropolis Museum",
+          "location": "Athens, Greece",
+          "website": "https://www.theacropolismuseum.gr/en"
+        },
+        {
+          "name": "Smithsonian National Museum of American History",
+          "location": "Washington, D.C., USA",
+          "website": "https://americanhistory.si.edu/"
+        },
+        {
+          "name": "Museo Nacional de Antropología",
+          "location": "Mexico City, Mexico",
+          "website": "https://www.mna.inah.gob.mx/"
+        },
+        {
+          "name": "National Museum of China",
+          "location": "Beijing, China",
+          "website": "http://en.chnmuseum.cn/"
+        },
+        {
+          "name": "Topkapi Palace",
+          "location": "Istanbul, Turkey",
+          "website": "https://topkapisarayi.gov.tr/en"
+        },
+        {
+          "name": "Apartheid Museum",
+          "location": "Johannesburg, South Africa",
+          "website": "https://www.apartheidmuseum.org/"
+        }
+      ],
+      "art_museums": [
+        {
+          "name": "The Louvre",
+          "location": "Paris, France",
+          "website": "https://www.louvre.fr/en"
+        },
+        {
+          "name": "Rijksmuseum",
+          "location": "Amsterdam, Netherlands",
+          "website": "https://www.rijksmuseum.nl/en"
+        },
+        {
+          "name": "The Metropolitan Museum of Art",
+          "location": "New York City, USA",
+          "website": "https://www.metmuseum.org/"
+        },
+        {
+          "name": "Museo del Prado",
+          "location": "Madrid, Spain",
+          "website": "https://www.museodelprado.es/en"
+        },
+        {
+          "name": "Uffizi Gallery",
+          "location": "Florence, Italy",
+          "website": "https://www.uffizi.it/en"
+        },
+        {
+          "name": "National Gallery of Victoria",
+          "location": "Melbourne, Australia",
+          "website": "https://www.ngv.vic.gov.au/"
+        },
+        {
+          "name": "Zeitz Museum of Contemporary Art Africa",
+          "location": "Cape Town, South Africa",
+          "website": "https://zeitzmocaa.museum/"
+        }
+      ],
+      "science_museums": [
+        {
+          "name": "Smithsonian National Air and Space Museum",
+          "location": "Washington, D.C., USA",
+          "website": "https://airandspace.si.edu/"
+        },
+        {
+          "name": "Deutsches Museum",
+          "location": "Munich, Germany",
+          "website": "https://www.deutsches-museum.de/en"
+        },
+        {
+          "name": "Science and Industry Museum",
+          "location": "Manchester, UK",
+          "website": "https://www.scienceandindustrymuseum.org.uk/"
+        },
+        {
+          "name": "Shanghai Science and Technology Museum",
+          "location": "Shanghai, China",
+          "website": "https://www.sstm.org.cn/kjg_Web/html/kjg_english/portal/index/index.htm"
+        },
+        {
+          "name": "Australian National Maritime Museum",
+          "location": "Sydney, Australia",
+          "website": "https://www.sea.museum/"
+        },
+        {
+          "name": "Copernicus Science Centre",
+          "location": "Warsaw, Poland",
+          "website": "https://www.kopernik.org.pl/en/"
+        },
+        {
+          "name": "Science Centre NEMO",
+          "location": "Amsterdam, Netherlands",
+          "website": "https://www.nemosciencemuseum.nl/en/"
+        }
+      ],
+      "natural_history_museums": [
+        {
+          "name": "American Museum of Natural History",
+          "location": "New York City, USA",
+          "website": "https://www.amnh.org/"
+        },
+        {
+          "name": "Natural History Museum",
+          "location": "London, UK",
+          "website": "https://www.nhm.ac.uk/"
+        },
+        {
+          "name": "National Museum of Natural History",
+          "location": "Paris, France",
+          "website": "https://www.mnhn.fr/en"
+        },
+        {
+          "name": "Canadian Museum of Nature",
+          "location": "Ottawa, Canada",
+          "website": "https://nature.ca/en/home"
+        },
+        {
+          "name": "Iziko South African Museum",
+          "location": "Cape Town, South Africa",
+          "website": "https://www.iziko.org.za/museums/south-african-museum"
+        },
+        {
+          "name": "Museo Nacional de Ciencias Naturales",
+          "location": "Madrid, Spain",
+          "website": "https://www.mncn.csic.es/en"
+        },
+        {
+          "name": "Museum of New Zealand Te Papa Tongarewa",
+          "location": "Wellington, New Zealand",
+          "website": "https://www.tepapa.govt.nz/"
+        }
+      ],
+      "encyclopedias": [
+      {
+        "name": "Encyclopaedia Britannica",
+        "description": "One of the most trusted sources of general knowledge, available in both digital and print formats.",
+        "website": "https://www.britannica.com",
+        "notes": "Known for its authoritative content, rigorously fact-checked and continually updated."
+      },
+      {
+        "name": "World Book Encyclopedia",
+        "description": "Provides comprehensive information on a wide range of topics for learners of all ages.",
+        "website": "https://www.worldbook.com",
+        "notes": "The only general reference encyclopedia still published in print, widely used in educational settings."
+      },
+      {
+        "name": "Encyclopaedia Larousse",
+        "description": "A major French-language encyclopedia available online, covering a wide range of general knowledge topics.",
+        "website": "https://www.larousse.fr",
+        "notes": "Highly regarded in the Francophone world for its detailed and reliable content."
+      },
+      {
+        "name": "Treccani Encyclopedia",
+        "description": "An Italian encyclopedia known for its comprehensive and scholarly articles.",
+        "website": "https://www.treccani.it",
+        "notes": "A respected source of general knowledge in Italy, available online and in print."
+      },
+      {
+        "name": "Nationalencyklopedin (NE)",
+        "description": "The leading Swedish-language encyclopedia, providing detailed articles on a wide array of subjects.",
+        "website": "https://www.ne.se",
+        "notes": "Widely used in Sweden for its authoritative and up-to-date information."
+      },
+      {
+        "name": "Great Russian Encyclopedia",
+        "description": "A comprehensive Russian-language encyclopedia covering a broad spectrum of knowledge.",
+        "website": "https://bigenc.ru",
+        "notes": "Known for its extensive and detailed entries, respected in Russian-speaking regions."
+      },
+      {
+        "name": "Stanford Encyclopedia of Philosophy",
+        "description": "A dynamic reference work maintained by experts in philosophy, providing peer-reviewed articles on philosophical topics.",
+        "website": "https://plato.stanford.edu",
+        "notes": "Highly regarded for its academic rigor and reliability in the field of philosophy."
+      },
+      {
+        "name": "Merriam-Webster's Encyclopedia of Literature",
+        "description": "Provides detailed articles on a wide range of literary topics and authors.",
+        "website": "https://www.merriam-webster.com",
+        "notes": "Known for its comprehensive coverage and authoritative content in literature."
+      },
+      {
+        "name": "Oxford Research Encyclopedia",
+        "description": "A collection of peer-reviewed, in-depth articles across multiple disciplines.",
+        "website": "https://oxfordre.com",
+        "notes": "Offers high-quality, authoritative content authored by experts in their fields."
+      },
+      {
+        "name": "Columbia Encyclopedia",
+        "description": "Offers comprehensive coverage of a wide range of topics, from general knowledge to specialized fields.",
+        "website": "https://www.columbia.edu/cu/cup/",
+        "notes": "Known for its thorough and accurate information."
+      },
+      {
+        "name": "The Canadian Encyclopedia",
+        "description": "Provides detailed information on Canadian history, culture, and notable figures.",
+        "website": "https://www.thecanadianencyclopedia.ca",
+        "notes": "Authoritative source of information on Canadian topics."
+      },
+      {
+        "name": "Enciclopedia Italiana (Treccani)",
+        "description": "An authoritative Italian-language encyclopedia covering a wide range of subjects.",
+        "website": "https://www.treccani.it",
+        "notes": "Renowned for its scholarly articles and comprehensive coverage."
+      },
+      {
+        "name": "Deutsche Biographie",
+        "description": "A biographical dictionary that provides detailed information about notable German figures.",
+        "website": "https://www.deutsche-biographie.de",
+        "notes": "Highly respected for its detailed biographical entries."
+      },
+      {
+        "name": "Britannica School",
+        "description": "An educational resource for students providing reliable information on a wide range of topics.",
+        "website": "https://school.eb.com",
+        "notes": "Widely used in educational settings for its authoritative and accessible content."
+      }
+    ]
+  }

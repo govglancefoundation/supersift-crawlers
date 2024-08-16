@@ -1,0 +1,72 @@
+[
+    {
+        "name": "The British Museum",
+        "location": "London, UK",
+        "website": "https://www.britishmuseum.org/",
+        "robots_url": "https://www.britishmuseum.org/robots.txt",
+        "description": "The official website of The British Museum, offering information on its collections, exhibitions, and educational resources.",
+        "credibility": "Highly credible, as it is one of the world's most renowned museums with a vast collection of historical artifacts.",
+        "topic": "History Museums",
+        "indexed": false
+    },
+    {
+        "name": "Acropolis Museum",
+        "location": "Athens, Greece",
+        "website": "https://www.theacropolismuseum.gr/en",
+        "robots_url": "https://www.theacropolismuseum.gr/robots.txt",
+        "description": "The official website of the Acropolis Museum, featuring information on its collections, exhibitions, and visitor details.",
+        "credibility": "Highly credible, as it is the official site of a major museum dedicated to the artifacts of ancient Greece.",
+        "topic": "History Museums",
+        "indexed": false
+    },
+    {
+        "name": "Smithsonian National Museum of American History",
+        "location": "Washington, D.C., USA",
+        "website": "https://americanhistory.si.edu/",
+        "robots_url": "https://americanhistory.si.edu/robots.txt",
+        "description": "The official website of the Smithsonian National Museum of American History, providing details on its collections, exhibitions, and educational programs.",
+        "credibility": "Highly credible, as it is part of the Smithsonian Institution, a leading research and museum complex in the USA.",
+        "topic": "History Museums",
+        "indexed": true
+    },
+    {
+        "name": "Museo Nacional de Antropología",
+        "location": "Mexico City, Mexico",
+        "website": "https://www.mna.inah.gob.mx/",
+        "robots_url": "https://www.mna.inah.gob.mx/robots.txt",
+        "description": "The official website of the Museo Nacional de Antropología, offering information on its anthropological collections and exhibitions.",
+        "credibility": "Highly credible, as it is Mexico's premier museum dedicated to anthropology and archaeology.",
+        "topic": "History Museums",
+        "indexed": false
+    },
+    {
+        "name": "National Museum of China",
+        "location": "Beijing, China",
+        "website": "http://en.chnmuseum.cn/",
+        "robots_url": "http://en.chnmuseum.cn/robots.txt",
+        "description": "The official website of the National Museum of China, providing access to information on its extensive collections and exhibitions.",
+        "credibility": "Highly credible, as it is one of the largest museums in the world with a focus on Chinese history and culture.",
+        "topic": "History Museums",
+        "indexed": false
+    },
+    {
+        "name": "Topkapi Palace",
+        "location": "Istanbul, Turkey",
+        "website": "https://topkapisarayi.gov.tr/en",
+        "robots_url": "https://topkapisarayi.gov.tr/robots.txt",
+        "description": "The official website of Topkapi Palace, detailing its history, collections, and visitor information.",
+        "credibility": "Highly credible, as it is the official site of a historic palace museum in Istanbul, known for its Ottoman-era artifacts.",
+        "topic": "History Museums",
+        "indexed": false
+    },
+    {
+        "name": "Apartheid Museum",
+        "location": "Johannesburg, South Africa",
+        "website": "https://www.apartheidmuseum.org/",
+        "robots_url": "https://www.apartheidmuseum.org/robots.txt",
+        "description": "The official website of the Apartheid Museum, providing information on its exhibits and educational resources about apartheid in South Africa.",
+        "credibility": "Highly credible, as it is dedicated to preserving and educating about South Africa's history of apartheid.",
+        "topic": "History Museums",
+        "indexed": false
+    }
+]

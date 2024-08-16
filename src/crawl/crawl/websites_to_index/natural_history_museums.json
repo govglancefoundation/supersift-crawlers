@@ -1,0 +1,65 @@
+[
+    {
+        "name": "American Museum of Natural History",
+        "location": "New York City, USA",
+        "website": "https://www.amnh.org/",
+        "robots_url": "https://www.amnh.org/robots.txt",
+        "description": "The official website of the American Museum of Natural History, featuring information on its exhibitions, research, and educational programs.",
+        "credibility": "Highly credible, as it is one of the largest and most renowned natural history museums in the world.",
+        "indexed": false
+    },
+    {
+        "name": "Natural History Museum",
+        "location": "London, UK",
+        "website": "https://www.nhm.ac.uk/",
+        "robots_url": "https://www.nhm.ac.uk/robots.txt",
+        "description": "The official website of the Natural History Museum in London, providing details on its collections, exhibitions, and visitor information.",
+        "credibility": "Highly credible, as it is a major museum known for its extensive natural history collections and research.",
+        "indexed": true
+    },
+    {
+        "name": "National Museum of Natural History",
+        "location": "Paris, France",
+        "website": "https://www.mnhn.fr/en",
+        "robots_url": "https://www.mnhn.fr/robots.txt",
+        "description": "The official website of the National Museum of Natural History in Paris, featuring information on its exhibits, research, and educational resources.",
+        "credibility": "Highly credible, as it is one of France's leading institutions for natural history and scientific research.",
+        "indexed": true
+    },
+    {
+        "name": "Canadian Museum of Nature",
+        "location": "Ottawa, Canada",
+        "website": "https://nature.ca/en/home",
+        "robots_url": "https://nature.ca/robots.txt",
+        "description": "The official website of the Canadian Museum of Nature, providing information on its collections, exhibits, and research in natural history.",
+        "credibility": "Highly credible, as it is Canada’s premier natural history museum with extensive collections and research programs.",
+        "indexed": false
+    },
+    {
+        "name": "Iziko South African Museum",
+        "location": "Cape Town, South Africa",
+        "website": "https://www.iziko.org.za/museums/south-african-museum",
+        "robots_url": "https://www.iziko.org.za/robots.txt",
+        "description": "The official website of the Iziko South African Museum, offering details on its collections, research, and educational activities.",
+        "credibility": "Highly credible, as it is a key institution in South Africa dedicated to natural history and cultural heritage.",
+        "indexed": false
+    },
+    {
+        "name": "Museo Nacional de Ciencias Naturales",
+        "location": "Madrid, Spain",
+        "website": "https://www.mncn.csic.es/en",
+        "robots_url": "https://www.mncn.csic.es/robots.txt",
+        "description": "The official website of the Museo Nacional de Ciencias Naturales in Madrid, providing information on its natural history collections and scientific research.",
+        "credibility": "Highly credible, as it is Spain's leading natural sciences museum, part of the Spanish National Research Council (CSIC).",
+        "indexed": false
+    },
+    {
+        "name": "Museum of New Zealand Te Papa Tongarewa",
+        "location": "Wellington, New Zealand",
+        "website": "https://www.tepapa.govt.nz/",
+        "robots_url": "https://www.tepapa.govt.nz/robots.txt",
+        "description": "The official website of the Museum of New Zealand Te Papa Tongarewa, featuring information on its collections, exhibitions, and cultural programs.",
+        "credibility": "Highly credible, as it is New Zealand's national museum known for its comprehensive collections and cultural exhibitions.",
+        "indexed": true
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Smithsonian National Air and Space Museum",
+        "location": "Washington, D.C., USA",
+        "website": "https://airandspace.si.edu/",
+        "robots_url": "https://airandspace.si.edu/robots.txt",
+        "description": "The Smithsonian National Air and Space Museum features exhibits on the history of aviation and space exploration.",
+        "credibility": "Highly credible, as it is part of the Smithsonian Institution, renowned for its extensive collections and educational programs."
+    },
+    {
+        "name": "Deutsches Museum",
+        "location": "Munich, Germany",
+        "website": "https://www.deutsches-museum.de/en",
+        "robots_url": "https://www.deutsches-museum.de/robots.txt",
+        "description": "One of the world's largest museums dedicated to science and technology, showcasing a broad range of scientific disciplines.",
+        "credibility": "Highly credible, being one of the most important museums in the field of science and technology."
+    },
+    {
+        "name": "Science and Industry Museum",
+        "location": "Manchester, UK",
+        "website": "https://www.scienceandindustrymuseum.org.uk/",
+        "robots_url": "https://www.scienceandindustrymuseum.org.uk/robots.txt",
+        "description": "The Science and Industry Museum explores the history of science, technology, and industry in Manchester and beyond.",
+        "credibility": "Highly credible, as it is a major UK museum focusing on scientific and industrial history."
+    },
+    {
+        "name": "Shanghai Science and Technology Museum",
+        "location": "Shanghai, China",
+        "website": "https://www.sstm.org.cn/",
+        "robots_url": "https://www.sstm.org.cn/kjg_Web/html/kjg_english/portal/index/index.htm/robots.txt",
+        "description": "A prominent science museum in Shanghai featuring interactive exhibits and educational programs.",
+        "credibility": "Highly credible, being a leading science museum in China with extensive educational and interactive exhibits."
+    },
+    {
+        "name": "Australian National Maritime Museum",
+        "location": "Sydney, Australia",
+        "website": "https://www.sea.museum/",
+        "robots_url": "https://www.sea.museum/robots.txt",
+        "description": "The Australian National Maritime Museum focuses on Australia's maritime history and naval heritage.",
+        "credibility": "Highly credible, as it is a key institution for maritime history in Australia."
+    },
+    {
+        "name": "Copernicus Science Centre",
+        "location": "Warsaw, Poland",
+        "website": "https://www.kopernik.org.pl/en/",
+        "robots_url": "https://www.kopernik.org.pl/robots.txt",
+        "description": "A hands-on science museum in Warsaw that offers interactive exhibits and educational activities.",
+        "credibility": "Highly credible, known for its innovative approach to science education and public engagement."
+    },
+    {
+        "name": "Science Centre NEMO",
+        "location": "Amsterdam, Netherlands",
+        "website": "https://www.nemosciencemuseum.nl/en/",
+        "robots_url": "https://www.nemosciencemuseum.nl/robots.txt",
+        "description": "NEMO Science Centre in Amsterdam provides interactive exhibits and educational experiences in science and technology.",
+        "credibility": "Highly credible, recognized for its engaging and educational approach to science."
+    }
+]

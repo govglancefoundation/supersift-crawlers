@@ -1,0 +1,487 @@
+[
+    {
+        "name": "Encyclopaedia Britannica",
+        "description": "One of the most trusted sources of general knowledge, available in both digital and print formats.",
+        "credibility": "Highly credible, as it is a well-established and authoritative source of knowledge with a long history of scholarly information.",
+        "notes": "Known for its authoritative content, rigorously fact-checked and continually updated.",
+        "website": "https://www.britannica.com",
+        "robots_url": "https://www.britannica.com/robots.txt",
+        "sitemap_url": "https://www.britannica.com/bps-ssl-gsm-index.xml",
+        "topic": "Encyclopedias",
+        "indexed": true
+    },
+    {
+        "name": "World Book Encyclopedia",
+        "description": "Provides comprehensive information on a wide range of topics for learners of all ages.",
+        "credibility": "Highly credible, as it is a respected source of encyclopedic knowledge known for its accuracy and reliability.",
+        "notes": "The only general reference encyclopedia still published in print, widely used in educational settings.",
+        "website": "https://www.worldbook.com",
+        "robots_url": "https://www.worldbook.com/robots.txt",
+        "sitemap_url": "https://www.worldbook.com/sitemap.xml",
+        "topic": "Encyclopedias",
+        "indexed": false
+    },
+    {
+        "name": "Encyclopaedia Larousse",
+        "description": "A major French-language encyclopedia available online, covering a wide range of general knowledge topics.",
+        "credibility": "Highly credible, as it is the official site of one of France's most reputable publishers of dictionaries and reference works.",
+        "notes": "Highly regarded in the Francophone world for its detailed and reliable content.",
+        "website": "https://www.larousse.fr",
+        "robots_url": "https://www.larousse.fr/robots.txt",
+        "sitemap_url": "https://www.larousse.fr/crawler/sitemapIndex_eul.xml",
+        "topic": "Encyclopedias",
+        "indexed": true
+    },
+    {
+        "name": "Treccani Encyclopedia",
+        "description": "An Italian encyclopedia known for its comprehensive and scholarly articles.",
+        "credibility": "Highly credible, as it is the official site of the Istituto della Enciclopedia Italiana, renowned for its authoritative and comprehensive reference works.",
+        "notes": "A respected source of general knowledge in Italy, available online and in print.",
+        "website": "https://www.treccani.it",
+        "robots_url": "https://www.treccani.it/robots.txt",
+        "sitemap_url": "https://www.treccani.it/sitemap.xml",
+        "topic": "Encyclopedias",
+        "indexed": true
+    },
+    {
+        "name": "Nationalencyklopedin (NE)",
+        "description": "The leading Swedish-language encyclopedia, providing detailed articles on a wide array of subjects.",
+        "credibility": "Highly credible, as it is the official site of Sweden's largest and most comprehensive encyclopedia.",
+        "notes": "Widely used in Sweden for its authoritative and up-to-date information.",
+        "website": "https://www.ne.se",
+        "robots_url": "https://www.ne.se/robots.txt",
+        "sitemap_url": "https://www.ne.se/sitemapindex.xml",
+        "topic": "Encyclopedias",
+        "indexed": true
+    },
+    {
+        "name": "Great Russian Encyclopedia",
+        "description": "A comprehensive Russian-language encyclopedia covering a broad spectrum of knowledge.",
+        "credibility": "Highly credible, as it is the official site of Russia's authoritative national encyclopedia, published by a respected institution.",
+        "notes": "Known for its extensive and detailed entries, respected in Russian-speaking regions.",
+        "website": "https://bigenc.ru",
+        "robots_url": "https://bigenc.ru/robots.txt",
+        "sitemap_url": "https://c.bigenc.ru/content/sitemap/sitemap.xml",
+        "topic": "Encyclopedias",
+        "indexed": true
+    },
+    {
+        "name": "Stanford Encyclopedia of Philosophy",
+        "description": "A dynamic reference work maintained by experts in philosophy, providing peer-reviewed articles on philosophical topics.",
+        "credibility": "Highly credible, as it is maintained by experts in the field and hosted by Stanford University, a leading academic institution.",
+        "notes": "Highly regarded for its academic rigor and reliability in the field of philosophy.",
+        "website": "https://plato.stanford.edu",
+        "robots_url": "https://plato.stanford.edu/robots.txt",
+        "sitemap_url": null,
+        "topic": "Encyclopedias",
+        "indexed": false
+    },
+    {
+        "name": "Merriam-Webster's Encyclopedia of Literature",
+        "description": "Provides detailed articles on a wide range of literary topics and authors.",
+        "credibility": "Highly credible, as it is the official site of a long-standing and authoritative American publisher of dictionaries and reference works.",
+        "notes": "Known for its comprehensive coverage and authoritative content in literature.",
+        "website": "https://www.merriam-webster.com",
+        "robots_url": "https://www.merriam-webster.com/robots.txt",
+        "topic": "Encyclopedias",
+        "indexed": true
+    },
+    {
+        "name": "Oxford Research Encyclopedia",
+        "description": "A collection of peer-reviewed, in-depth articles across multiple disciplines.",
+        "credibility": "Highly credible, as it is associated with Oxford University Press, a highly respected and authoritative academic publisher.",
+        "notes": "Offers high-quality, authoritative content authored by experts in their fields.",
+        "website": "https://oxfordre.com",
+        "robots_url": "https://oxfordre.com/robots.txt",
+        "sitemap_url": "https://oxfordre.com/sitemap.xml",
+        "topic": "Encyclopedias",
+        "indexed": false
+    },
+    {
+        "name": "Columbia Encyclopedia",
+        "description": "Offers comprehensive coverage of a wide range of topics, from general knowledge to specialized fields.",
+        "credibility": "Highly credible, as it is the official site of a prestigious academic publisher affiliated with Columbia University.",
+        "notes": "Known for its thorough and accurate information.",
+        "website": "https://www.columbia.edu/cu/cup/",
+        "robots_url": "https://www.columbia.edu/cu/cup/robots.txt",
+        "topic": "Encyclopedias",
+        "indexed": true
+    },
+    {
+        "name": "The Canadian Encyclopedia",
+        "description": "Provides detailed information on Canadian history, culture, and notable figures.",
+        "credibility": "Highly credible, as it is a well-established and authoritative source for information about Canada, maintained by a reputable organization.",
+        "notes": "Authoritative source of information on Canadian topics.",
+        "website": "https://www.thecanadianencyclopedia.ca",
+        "robots_url": null,
+        "sitemap_url": null,
+        "topic": "Encyclopedias",
+        "indexed": false
+    },
+    {
+        "name": "Deutsche Biographie",
+        "description": "A biographical dictionary that provides detailed information about notable German figures.",
+        "credibility": "Highly credible, as it is the official site of a major German biographical reference work, maintained by the Bayerische Akademie der Wissenschaften.",
+        "notes": "Highly respected for its detailed biographical entries.",
+        "website": "https://www.deutsche-biographie.de",
+        "robots_url": null,
+        "sitemap_url": null,
+        "topic": "Encyclopedias",
+        "indexed": false
+    },
+    {
+        "name": "Britannica School",
+        "description": "An educational resource for students providing reliable information on a wide range of topics.",
+        "credibility": "Highly credible, as it is part of the well-established Encyclopaedia Britannica, known for its accuracy and reliability.",
+        "notes": "Widely used in educational settings for its authoritative and accessible content.",
+        "website": "https://school.eb.com",
+        "robots_url": "https://school.eb.com/robots.txt",
+        "sitemap_url": null,
+        "topic": "Encyclopedias",
+        "indexed": false
+    },
+    {
+        "name": "Espasa Calpe",
+        "description": "A comprehensive Spanish-language encyclopedia with a focus on Iberian and Latin American knowledge.",
+        "credibility": null,
+        "website": "https://www.espasa.com",
+        "notes": "Highly regarded in the Spanish-speaking world for its depth and reliability.",
+        "robots_url": null,
+        "sitemap_url": null,
+        "not_working": true,
+        "indexed":false
+      },
+      {
+        "name": "Encyclopaedia Sinica",
+        "description": "A Chinese-language encyclopedia offering a vast range of knowledge on various topics.",
+        "credibility": null,
+        "website": "https://www.sinica.edu.tw",
+        "notes": "Considered a significant reference work in Chinese-speaking regions, known for its thoroughness.",
+        "robots_url": null,
+        "sitemap_url": null,
+        "indexed":false
+      },
+      {
+        "name": "Encyclopædia Iranica",
+        "description": "An encyclopedia dedicated to the study of Iranian civilization, culture, and history.",
+        "credibility": null,
+        "website": "https://www.iranicaonline.org",
+        "notes": "Renowned for its scholarly articles and comprehensive coverage of Iran and the Persian-speaking world.",
+        "robots_url": null,
+        "sitemap_url": null,
+        "indexed":false
+      },
+      {
+        "name": "Japanese Encyclopedia (Nihon Dai Hyakka Zensho)",
+        "description": "A major Japanese-language encyclopedia with extensive coverage of a wide range of subjects.",
+        "credibility": null,
+        "website": "https://www.hakusensha.co.jp",
+        "notes": "Widely used in Japan, respected for its depth and accuracy.",
+        "robots_url": "https://www.hakusensha.co.jp/robots.txt",
+        "sitemap_url": "https://www.hakusensha.co.jp/sitemap.xml",
+        "indexed":false
+      },
+      {
+        "name": "Brill",
+        "description": null,
+        "credibility": null,
+        "website": "https://referenceworks.brillonline.com/",
+        "notes": null,
+        "robots_url": "https://referenceworks.brill.com/robots.txt",
+        "sitemap_url": "https://referenceworks.brill.com/sitemap.xml",
+        "indexed":false
+      },
+      {
+        "name": "Encyclopaedia",
+        "description": "An authoritative resource on Jewish history, culture, and religion.",
+        "credibility": null,
+        "website": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/encyclopaedia-judaica",
+        "notes": "Widely respected for its comprehensive and accurate coverage of Jewish topics.",
+        "robots_url": "https://www.encyclopedia.com/robots.txt",
+        "sitemap_url": "https://www.encyclopedia.com/sitemap.xml",
+        "indexed":false
+
+      },
+      {
+        "name": "Banglapedia",
+        "description": "The National Encyclopedia of Bangladesh, providing extensive coverage of the country's history, culture, and society.",
+        "credibility": null,
+        "website": "https://en.banglapedia.org",
+        "notes": "Respected as the most comprehensive reference work on Bangladesh.",
+        "robots_url": null,
+        "sitemap_url": null,
+        "indexed":false
+
+      },
+      {
+        "name": "Hindi Vishvakosh",
+        "description": "A major Hindi-language encyclopedia covering a wide range of general knowledge topics.",
+        "credibility": null,
+        "website": "https://vishvakosh.ignou.ac.in",
+        "notes": "Widely used in the Hindi-speaking world, valued for its depth and reliability.",
+        "robots_url": null,
+        "sitemap_url": null,
+        "not_working": true,
+        "indexed": false
+
+      },
+      {
+        "name": "Encyclopaedia of Korean Culture",
+        "description": "Provides comprehensive coverage of Korean history, culture, and society.",
+        "credibility": null,
+        "website": "https://encykorea.aks.ac.kr",
+        "notes": "The most authoritative reference work on Korean cultural and historical topics.",
+        "robots_url": "https://encykorea.aks.ac.kr/robots.txt",
+        "sitemap_url": "https://encykorea.aks.ac.kr/sitemap.xml",
+        "indexed": false
+      },
+      {
+        "name": "Heibonsha World Encyclopedia",
+        "description": "A Japanese-language encyclopedia known for its in-depth coverage of global and cultural topics.",
+        "credibility": null,
+        "website": "https://www.heibonsha.co.jp",
+        "notes": "Widely respected in Japan for its scholarly articles and global perspective.",
+        "robots_url": "https://www.heibonsha.co.jp/robots.txt",
+        "sitemap_url": "https://www.heibonsha.co.jp/sitemap.xml",
+        "indexed": false
+      },
+      {
+        "name": "Brockhaus Enzyklopädie",
+        "description": "A comprehensive German-language encyclopedia offering detailed information on a wide range of subjects.",
+        "credibility": null,
+        "website": "https://www.brockhaus.de",
+        "notes": "One of the most respected encyclopedias in the German-speaking world, known for its accuracy and thoroughness.",
+        "robots_url": "https://brockhaus.de/robots.txt",
+        "sitemap_url": "https://brockhaus.de/sitemapindex.xml",
+        "indexed": false
+      },
+      {
+        "name": "Encyclopaedia of Aboriginal Australia",
+        "description": "Provides in-depth coverage of the history, culture, and languages of Indigenous Australians.",
+        "credibility": null,
+        "website": "https://www.aiatsis.gov.au",
+        "notes": "A unique and authoritative source on Aboriginal Australian topics, highly regarded in academic and cultural circles.",
+        "robots_url": "https://aiatsis.gov.au/robots.txt",
+        "sitemap_url": "https://aiatsis.gov.au/sitemap.xml",
+        "indexed": false
+      },
+      {
+        "name": "Kamus Dewan",
+        "description": "An authoritative Malay-language dictionary and encyclopedia providing comprehensive coverage of the Malay language and culture.",
+        "website": "https://www.dbp.gov.my",
+        "credibility": null,
+        "notes": "Widely used in Malaysia and Brunei for its reliable and thorough content.",
+        "robots_url": null,
+        "sitemap_url": null,
+        "not_working": true,
+        "indexed": false
+      },
+      {
+        "name": "Encyclopaedia of China",
+        "description": "A modern Chinese-language encyclopedia covering a vast range of subjects.",
+        "credibility": null,
+        "website": "https://www.ecph.cn",
+        "notes": "One of the largest and most comprehensive reference works in China, known for its scholarly depth.",
+        "robots_url": null,
+        "sitemap_url": null,
+        "not_working": true,
+        "indexed": false
+      },
+      {
+        "name": "Khazarshunarhavor Arabik Anjitagir",
+        "description": "An authoritative Armenian-language encyclopedia covering a wide range of general knowledge topics.",
+        "credibility": null,
+        "website": "https://www.armeniapedia.org/wiki/Khazarshunarhavor_Arabik_Anjitagir",
+        "notes": "Highly respected in Armenia and among Armenian communities worldwide for its scholarly content.",
+        "robots_url": "https://www.armeniapedia.org/robots.txt",
+        "sitemap_url": null,
+        "indexed": false
+      },
+      {
+        "name": "Taiwanese Encyclopedia",
+        "description": "Provides extensive coverage of Taiwan's history, culture, and society.",
+        "credibility": null,
+        "website": "https://taiwanpedia.culture.tw",
+        "notes": "An authoritative reference work on Taiwanese topics, valued for its detailed and accurate content.",
+        "robots_url": null,
+        "sitemap_url": null,
+        "not_working": true,
+        "indexed": false
+      },
+      {
+        "name": "Kokushi Daijiten",
+        "description": "A comprehensive Japanese-language encyclopedia focusing on Japanese history.",
+        "credibility": null,
+        "website": "https://www.yuhikaku.co.jp",
+        "notes": "Considered the most authoritative reference work on Japanese history, widely used by scholars and researchers.",
+        "robots_url": "https://www.yuhikaku.co.jp/robots.txt",
+        "sitemap_url": null,
+        "indexed": false
+      },
+      {
+        "name": "Mongolian Red Book Encyclopedia",
+        "description": "Provides comprehensive information on the endangered species and natural resources of Mongolia.",
+        "credibility": null,
+        "website": "https://www.mne.mn",
+        "notes": "Highly valued for its environmental and conservation content, authoritative in Mongolian studies.",
+        "not_working": true,
+        "robots_url": null,
+        "sitemap_url": null,
+        "indexed": false
+      },
+      {
+        "name": "Encyclopedia of the Turkic World",
+        "description": "A comprehensive reference work on the history, culture, and languages of Turkic-speaking peoples.",
+        "credibility": null,
+        "website": "https://www.turkkon.org",
+        "notes": "An authoritative source on the Turkic world, respected for its scholarly depth and cultural insights.",
+        "robots_url": "https://turkicstates.org/robots.txt",
+        "sitemap_url": null,
+        "indexed": false
+      },
+      {
+        "name": "Türk Ansiklopedisi",
+        "description": "A Turkish-language encyclopedia providing comprehensive coverage of a wide range of subjects.",
+        "credibility": null,
+        "website": "https://www.tdk.gov.tr",
+        "notes": "Widely used in Turkey for its reliable and in-depth content.",
+        "not_working": true,
+        "robots_url": null,
+        "sitemap_url": null,
+        "indexed": false
+      },
+      {
+        "name": "Encyclopedia of Australian Science",
+        "description": "Provides detailed information on the history of science in Australia, including biographies of scientists and descriptions of scientific institutions.",
+        "credibility": null,
+        "website": "https://www.eoas.info",
+        "notes": "Respected for its authoritative coverage of Australia's scientific heritage.",
+        "robots_url": null,
+        "sitemap_url": null,
+        "indexed": false
+      },
+      {
+        "name": "Euskara Entziklopedia",
+        "description": "A Basque-language encyclopedia that offers comprehensive coverage of Basque culture, language, and history.",
+        "credibility": null,
+        "website": "https://www.euskara.euskadi.eus",
+        "notes": "Highly regarded in the Basque-speaking community for its focus on regional culture and identity.",
+        "robots_url": "https://www.euskadi.eus/robots.txt",
+        "sitemap_url": null,
+        "indexed": false
+      },
+      {
+        "name": "Funk & Wagnalls New World Encyclopedia",
+        "description": "A general reference work providing accessible information on a wide range of topics.",
+        "credibility": null,
+        "website": "https://www.worldlibrary.org/articles/funk_and_wagnalls_new_world_encyclopedia",
+        "notes": "Valued for its easy-to-understand content, widely used in libraries and schools.",
+        "not_working": true,
+        "robots_url": null,
+        "sitemap_url": null,
+        "indexed": false
+      },
+      {
+        "name": "Arabic Encyclopedia",
+        "description": "A comprehensive Arabic-language reference work covering a vast range of knowledge areas.",
+        "credibility": null,
+        "website": "https://www.marefa.org/الموسوعة_العربية",
+        "notes": "Considered an authoritative source of information in the Arabic-speaking world.",
+        "robots_url": "https://www.marefa.org/robots.txt",
+        "sitemap_url": "https://www.marefa.org/sitemap.xml",
+        "indexed": false
+      },
+      {
+        "name": "Encyclopedia Talmudit",
+        "description": "A Hebrew-language encyclopedia providing detailed commentary and analysis of the Talmud.",
+        "credibility": null,
+        "website": "https://www.ybm.org.il/encyclopedias.aspx",
+        "notes": "Considered an indispensable reference for scholars of Jewish law and tradition.",
+        "robots_url": null,
+        "sitemap_url": "https://www.ybm.org.il/sitemap.xml",
+        "indexed": false
+      },
+      {
+        "name": "Encyclopedia of Ukrainian History",
+        "description": "Provides comprehensive coverage of the history, culture, and significant figures of Ukraine.",
+        "credibility": null,
+        "website": "https://www.history.org.ua",
+        "notes": "Respected for its detailed and scholarly treatment of Ukrainian history.",
+        "not_working": true,
+        "robots_url": null,
+        "sitemap_url": null,
+        "indexed": false
+      },
+      {
+        "name": "Encyclopaedia of Zimbabwe",
+        "description": "Covers the history, culture, and significant events of Zimbabwe.",
+        "credibility": null,
+        "website": "https://www.zim.gov.zw",
+        "notes": "An important reference work for understanding the heritage and current issues of Zimbabwe.",
+        "robots_url": "https://www.zim.gov.zw/robots.txt",
+        "sitemap_url": null,
+        "indexed": false
+      },
+      {
+        "name": "Filipiniana Encyclopedia",
+        "description": "A comprehensive reference work on the history, culture, and notable figures of the Philippines.",
+        "credibility": null,
+        "website": "https://www.filipinaslibrary.org.ph",
+        "notes": "Highly regarded in the Philippines for its detailed and culturally rich content.",
+        "robots_url": "https://www.filipinaslibrary.org.ph/robots.txt",
+        "sitemap_url": null,
+        "indexed": false
+      },
+      {
+        "name": "Hausa Encyclopedia",
+        "description": "Provides extensive coverage of the history, culture, and language of the Hausa people.",
+        "credibility": null,
+        "website": "https://www.arewaonline.ng",
+        "notes": "An authoritative source of information on Hausa heritage, widely used in West Africa.",
+        "not_working": true,
+        "robots_url": null,
+        "sitemap_url": null,
+        "indexed": false
+      },
+      {
+        "name": "Encyclopedia of the Sami Culture",
+        "description": "A comprehensive reference work on the culture, history, and traditions of the Sami people of Northern Europe.",
+        "credibility": null,
+        "website": "https://www.samediggi.fi",
+        "notes": "Respected for its thorough and respectful coverage of indigenous Sami culture.",
+        "robots_url": "https://samediggi.fi/robots.txt",
+        "sitemap_url": "https://samediggi.fi/sitemap.xml",
+        "indexed": false
+      },
+      {
+        "name": "Encyclopedia of the Inuit",
+        "description": "Provides in-depth information on the history, culture, and societal structures of the Inuit people.",
+        "credibility": null,
+        "website": "https://www.thecanadianencyclopedia.ca/en/article/inuit",
+        "notes": "Highly valued for its focus on the Arctic indigenous populations.",
+        "robots_url": null,
+        "sitemap_url": null,
+        "indexed": false
+      },
+      {
+        "name": "Encyclopedia of Mongolian Nomadic Culture",
+        "description": "Covers the traditional practices, history, and culture of Mongolian nomadic societies.",
+        "credibility": null,
+        "website": "https://www.mongoliacenter.org",
+        "notes": "An authoritative source on the unique aspects of nomadic life in Mongolia.",
+        "robots_url": "https://mongoliacenter.org/robots.txt",
+        "sitemap_url": "https://mongoliacenter.org/sitemap_index.xml",
+        "indexed": false
+      },
+      {
+        "name": "Encyclopedia of African-American Culture and History",
+        "description": "Provides detailed coverage of the history, culture, and achievements of African-Americans.",
+        "credibility": null,
+        "website": "https://www.gale.com/ebooks/encyclopedia-of-african-american-culture-and-history",
+        "notes": "Highly respected for its scholarly content and focus on African-American heritage.",
+        "robots_url": "https://www.gale.com/robots.txt",
+        "sitemap_url": "https://www.gale.com/sitemap.xml",
+        "many_sitemap": true,
+        "indexed": false
+      }
+]

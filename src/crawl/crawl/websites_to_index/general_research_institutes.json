@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Max Planck Society",
+        "location": "Germany",
+        "website": "https://www.mpg.de/en",
+        "robots_url": "https://www.mpg.de/robots.txt",
+        "topic": "General Research Institute",
+        "description": "The official website of the Max Planck Society, providing information on its research institutes and scientific advancements.",
+        "credibility": "Highly credible, as it is one of the leading research organizations in Germany known for its contributions to science.",
+        "indexed": true
+    },
+    {
+        "name": "California Institute of Technology",
+        "university": "Caltech",
+        "location": "USA",
+        "website": "https://www.caltech.edu",
+        "robots_url": "https://www.caltech.edu/robots.txt",
+        "topic": "General Research Institute",
+        "description": "The official website of the California Institute of Technology, offering details on its research, academic programs, and campus life.",
+        "credibility": "Highly credible, as it is a prestigious institution known for its cutting-edge research and contributions to science and engineering.",
+        "indexed": true
+    },
+    {
+        "name": "University of Cambridge Research Institutes",
+        "university": "University of Cambridge",
+        "location": "UK",
+        "website": "https://www.cam.ac.uk/research",
+        "robots_url": "https://www.cam.ac.uk/robots.txt",
+        "topic": "General Research Institute",
+        "description": "The official page for research at the University of Cambridge, showcasing its research institutes and academic projects.",
+        "credibility": "Highly credible, as it is part of one of the world’s oldest and most respected universities with a strong research focus.",
+        "indexed": false
+    },
+    {
+        "name": "University of Oxford Research Services",
+        "university": "University of Oxford",
+        "location": "UK",
+        "website": "https://www.ox.ac.uk/research",
+        "robots_url": "https://www.ox.ac.uk/robots.txt",
+        "topic": "General Research Institute",
+        "description": "The official website for research services at the University of Oxford, providing information on its research initiatives and support services.",
+        "credibility": "Highly credible, as it is associated with the University of Oxford, a leading global institution known for its research excellence.",
+        "indexed": false
+    },
+    {
+        "name": "National University of Singapore Research Institutes",
+        "university": "National University of Singapore",
+        "location": "Singapore",
+        "website": "https://www.nus.edu.sg/research",
+        "robots_url": "https://www.nus.edu.sg/robots.txt",
+        "topic": "General Research Institute",
+        "description": "The official website of the National University of Singapore’s research institutes, detailing their research activities and initiatives.",
+        "credibility": "Highly credible, as it is part of a leading global university known for its research output and academic excellence.",
+        "indexed": false
+    }
+]

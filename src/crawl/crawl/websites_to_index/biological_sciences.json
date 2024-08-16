@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Harvard Medical School Department of Biological Chemistry and Molecular Pharmacology",
+        "university": "Harvard University",
+        "location": "USA",
+        "website": "https://bcmp.hms.harvard.edu",
+        "robots_url": null,
+        "indexed": false
+    },
+    {
+        "name": "Stanford University Department of Biology",
+        "university": "Stanford University",
+        "location": "USA",
+        "website": "https://biology.stanford.edu",
+        "robots_url": "https://biology.stanford.edu/robots.txt",
+        "sitemap_url": null,
+        "indexed": false
+    },
+    {
+        "name": "Peking University School of Life Sciences",
+        "university": "Peking University",
+        "location": "China",
+        "website": "https://www.cls.edu.cn/english/",
+        "robots_url": null,
+        "sitemap_url": null,
+        "indexed": false
+    },
+    {
+        "name": "University of Cambridge Department of Biochemistry",
+        "university": "University of Cambridge",
+        "location": "UK",
+        "website": "https://www.bioc.cam.ac.uk",
+        "robots_url": "https://www.bioc.cam.ac.uk/robots.txt",
+        "sitemaps": null,
+        "indexed": false
+    },
+    {
+        "name": "Yale University Department of Molecular, Cellular and Developmental Biology",
+        "university": "Yale University",
+        "location": "USA",
+        "website": "https://mcdb.yale.edu",
+        "robots_url": "https://mcdb.yale.edu/robots.txt",
+        "sitemap_url":null,
+        "indexed": false
+    }
+]
