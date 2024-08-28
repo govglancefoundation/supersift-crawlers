@@ -95,7 +95,7 @@ class WriteElectionArticles:
             query = f"INSERT INTO {table_name} ({columns}) VALUES ({values})"
             # print(query)
             self.cur.execute(query, item)
-            print(f"page {item["title"]}: {item['url']} inserted to {table_name}")
+            print(f"page {item['title']}: {item['url']} inserted to {table_name}")
             self.connection.commit()
         except psycopg2.Error as e:
             print("Error: ", e)
