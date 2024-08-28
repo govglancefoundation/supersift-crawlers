@@ -29,7 +29,7 @@ NEWSPIDER_MODULE = "crawl.spiders"
 ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
-CONCURRENT_REQUESTS = 64
+CONCURRENT_REQUESTS = 16
 
 # CLOSESPIDER_PAGECOUNT = 10
 
