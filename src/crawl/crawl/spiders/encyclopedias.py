@@ -2,12 +2,14 @@ import scrapy
 import json
 from scrapy.spiders import SitemapSpider
 import re
+import os
 
 class EncyclopediasSpider(SitemapSpider):
     name = "encyclopedias"
 
     def __init__(self):
-        with open(f'/Users/santiagosaldivar/Coding/govGlaceCrawler/src/crawl/crawl/websites_to_index/{EncyclopediasSpider.name}.json', encoding = 'utf-8') as data_file:
+        # dir_path = os.path.dirname(os.path.realpath(f'{EncyclopediasSpider.name}.json'))
+        with open(f'websites_to_index/{EncyclopediasSpider.name}.json', encoding = 'utf-8') as data_file:
             self.data = json.load(data_file)
         self.sitemap_follow = [""]
         self._cbs = []
