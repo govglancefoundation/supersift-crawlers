@@ -24,17 +24,14 @@ class EncyclopediasSpider(SitemapSpider):
             if item['indexed'] == False:
                 if item["sitemap_url"] != None:
                     request = scrapy.Request(item['sitemap_url'], callback=self._parse_sitemap, meta={'stuff':item})
-                    print(request.meta)
                     yield request
 
                 else:
                     if item["robots_url"] != None:
                         request = scrapy.Request(item['robots_url'], callback=self._parse_sitemap, meta={'stuff':item})
-                        print(request.meta)
                         yield request
                         
     def parse(self, response):
-        print(response.meta)
         item = response.meta['stuff']
         yield {
             'title': response.css('title ::text').get(),
